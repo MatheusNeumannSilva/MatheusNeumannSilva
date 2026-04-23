@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**MatheusNeumannSilva/MatheusNeumannSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+Hello! I'm Matheus Neumann Silva, a 17-year-old web developer from Brazil.
+I focus on building real projects and turning ideas into functional applications, always aiming to improve code quality, organization, and problem-solving skills.
+I enjoy working on interactive interfaces and practical solutions, constantly refining my approach through hands-on development.
+I'm also interested in Artificial Intelligence and how it can be integrated into real-world applications in the future.
+My current goal is to grow consistently, build meaningful projects, and evolve as a developer through real-world experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Langs & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## 💬 Talk to me
+
+<p align="left">
+  <a href="https://discord.gg/https://discord.gg/yzNtu54BSE">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+
+
