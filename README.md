@@ -11,7 +11,7 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
 ##  Langs & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react.js" />
 </p>
 
 ## 💬 Talk to me
