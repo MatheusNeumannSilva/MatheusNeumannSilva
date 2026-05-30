@@ -17,8 +17,13 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
 ## 💬 Talk to me
 
 <p align="left">
-  <a href="https://discord.gg/https://discord.gg/yzNtu54BSE">
-    <img src="https://skillicons.dev/icons?i=discord" />
+  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/instagram/E4405F" 
+      alt="Instagram" 
+      width="40" 
+      height="40" 
+    />
   </a>
 </p>
 
