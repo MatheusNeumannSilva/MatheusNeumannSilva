@@ -16,8 +16,9 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
 
 ## 💬 Talk to me
 
+
 <p align="left">
-  <a href="https://www.instagram.com/neumannz__/](https://www.instagram.com/neumannz__/" target="_blank">
+  <a href="https://www.instagram.com/neumannxz__/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://cdn.simpleicons.org/instagram/E4405F" 
       alt="Instagram" 
@@ -26,6 +27,5 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
     />
   </a>
 </p>
-
 
 
