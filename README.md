@@ -17,11 +17,7 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
 ## 💬 Talk to me
 
 <a href="https://discord.com/users/1231616010285744309">
-  <img
-    src="https://cdn.simpleicons.org/discord/EA4C89"
-    alt="Discord"
-    width="48"
-  />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="48" alt="Meu Discord">
 </a>
 
 
