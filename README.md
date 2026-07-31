@@ -16,16 +16,12 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
 
 ## 💬 Talk to me
 
-
-<p align="left">
-  <a href="https://www.instagram.com/neumannz__/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://cdn.simpleicons.org/whatsapp/E4405F" 
-      alt="Whatsapp" 
-      width="40" 
-      height="40" 
-    />
-  </a>
-</p>
+<a href="https://discord.com/users/1231616010285744309">
+  <img
+    src="https://cdn.simpleicons.org/discord/EA4C89"
+    alt="Discord"
+    width="48"
+  />
+</a>
 
 
