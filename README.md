@@ -20,8 +20,8 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
 <p align="left">
   <a href="https://www.instagram.com/neumannz__/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://cdn.simpleicons.org/instagram/E4405F" 
-      alt="Instagram" 
+      src="https://cdn.simpleicons.org/whatsapp/E4405F" 
+      alt="Whatsapp" 
       width="40" 
       height="40" 
     />
