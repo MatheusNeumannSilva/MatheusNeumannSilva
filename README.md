@@ -17,7 +17,11 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
 ## 💬 Talk to me
 
 <a href="https://discord.com/users/1231616010285744309">
-  <img src="https://camo.githubusercontent.com/85aa751……7474707…" alt="DISCORD" data-canonical-src="https://skillicons.dev/icons?i=discord" style="max-width: 100%;">
+  <img
+    src="https://skillicons.dev/icons?i=discord"
+    alt="Discord"
+    width="48"
+    height="48"
+  />
 </a>
-
 
