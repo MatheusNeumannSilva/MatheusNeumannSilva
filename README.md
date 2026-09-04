@@ -14,13 +14,7 @@ My current goal is to grow consistently, build meaningful projects, and evolve a
   <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
 
-## Currently Learning
 
-<img
-  src="https://skillicons.dev/icons?i=postgres"
-  height="50"
-  alt="PostgreSQL"
-/>
 
 ## 💬 Talk to me
 
